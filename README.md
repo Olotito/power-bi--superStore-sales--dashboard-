@@ -1,2 +1,43 @@
 # power-bi--superStore-sales--dashboard-
-End - to - end - Power BI dashboard analyzing $1M+ superstore sales. Built with Power Query + DAX. Insights on profits drivers, discounts impact and regional performance.
+
+![Dashboard Preview](./image/Dashboard_Screenshot.png)
+
+## Project Overview
+
+This Power BI dashboard analyzes Superstore sales performance and provides insights into:
+
+## Insights
+- Total Sales
+- Total Profit
+- Total Quantity Sold
+- Profit Margin %
+- Sales Trend by Year
+- Profit by Region
+- Profit by Category
+- Top 5 Products
+- Impact of Discount on Profit
+
+  ## KPIs
+**KPI.          Value** 
+- Total Sales.     $1M
+- Total Profit.    $133K
+- Total Quantity.  19K
+- Profit Margin.   12.05%
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX Measures
+- Data Modeling
+
+## Insights
+- East region generated the highest profit.
+- Technology category contributed the largest share of profit.
+- Sales increased steadily from 2015 to 2018.
+- High discounts had varying impacts on profitability.
+- Canon imageCLASS was among the top-performing products.
+
+## Files Included
+- Superstore Dashboard.pbix
+- Superstore Dataset.xlsx
+- Dashboard Screenshot
