@@ -18,12 +18,14 @@ This Power BI dashboard analyzes Superstore sales performance and provides insig
 - Top 5 Products
 - Impact of Discount on Profit
 
-  ## KPIs
-**KPI.          Value** 
-- Total Sales.     $1M
-- Total Profit.    $133K
-- Total Quantity.  19K
-- Profit Margin.   12.05%
+  ### KPIs
+
+| KPI | Value |
+| --- | --- |
+| **Total Sales** | **$1M** |
+| **Total Profit** | **$133K** |
+| **Total Quantity** | **19K** |
+| **Profit Margin** | **12.05%** |
 
 ## Tools Used
 - Power BI
