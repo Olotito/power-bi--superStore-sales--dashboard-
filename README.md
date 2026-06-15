@@ -1,6 +1,7 @@
 # power-bi--superStore-sales--dashboard-
 
-![Dashboard Preview](./image/Dashboard_Screenshot.png)
+<img width="890" height="498" alt="Performance 003" src="https://github.com/user-attachments/assets/0bf4fe92-20b7-457a-93b4-930c0e7d7fbd" />
+
 
 ## Project Overview
 
