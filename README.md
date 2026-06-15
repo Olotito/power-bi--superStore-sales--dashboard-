@@ -7,7 +7,7 @@
 
 This Power BI dashboard analyzes Superstore sales performance and provides insights into:
 
-## Insights
+## Metrics Analyzed
 - Total Sales
 - Total Profit
 - Total Quantity Sold
